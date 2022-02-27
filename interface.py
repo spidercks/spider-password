@@ -1,5 +1,5 @@
 def linha():
-    print("=" * 37)
+    print("-" * 37)
 
 def cabecalho(mensagem = "<vazio>"):
     linha()
